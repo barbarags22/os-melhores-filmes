@@ -1,4 +1,3 @@
->?php
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -25,5 +24,3 @@
     <p>Com a ajuda de Jim Gordon e Harvey Dent, Batman tem mantido a ordem na cidade de Gotham. Mas um jovem e anárquico criminoso conhecido como Coringa ganha força e decide instaurar um verdadeiro caos na cidade. O justiceiro será testado psicologicamente e fisicamente como nunca fora antes em um confronto bastante pessoal. Cabe a Batman encontrar uma maneira de deter o sádico vilão antes que mais vidas sejam perdidas.</p>
 </body>
 </html>
-
-?>
